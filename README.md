@@ -24,6 +24,8 @@ A Full Stack Web Developer🎯 from India.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/raushan-k/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Raushan%20Kumar-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/raushan_coder/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-raushan_coder?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/raushan_coder/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-raushan_coder-blue?style=flat-square&logo="instagram"></a>
+<a href="https://www.twitter.com/raushanksujal"><img alt="
+Twitter" src="https://img.shields.io/badge/Twitter-raushanksujal-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:raushankumar279878@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Shoot A Mail-blue?style=flat-square&logo=gmail"></a>
 </p>
