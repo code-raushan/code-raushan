@@ -1,5 +1,5 @@
 ### Hi there 👋
-A Full Stack Web developer🎯 and designer🌈 from India.
+A Full Stack Web Developer🎯 from India.
 
 
 - 🔭 I’m currently working on building performant and robust web applications💻
