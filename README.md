@@ -1,31 +1,38 @@
-### Hi there 👋
-A Full Stack Web Developer🎯 from India.
+# Hi there! 👋 I'm Raushan
+## Software Engineer 🧑🏻‍💻
 
+[![GitHub followers](https://img.shields.io/github/followers/code-raushan?style=social)](https://github.com/code-raushan)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ishn_ish?style=social)](https://twitter.com/raushanksujal)
 
-- 🔭 I’m currently working on building performant and robust web applications💻
-- 🌱 I’m currently learning JavaScript and its frameworks
-- 🌈 Read my blogs at [rdev](https://rdev.hashnode.dev/)🧐
-- 👯 I’m looking to collaborate on interesting web projects🤘
-- 📚 What do I believe? Jack of all, Master of some.
-- 💬 Feel free to reach me out, I'm always available😎
+- 🔭 I’m currently working on building performant and robust applications
+- 💻 Focused on Backend and Infrastructure Engineering
+- 💬 Feel free to reach me out, I'm available for good projects and discussions
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/raushan-k)
+- 🌈 Read my blogs at [rdev](https://rdev.hashnode.dev/)
 
-**Languages:**  
+**🛠️ Languages & Tools:** 
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
 <h3 align="center"> 🤝🏻 Connect with Me </h3>
 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/raushan-k/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Raushan%20Kumar-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/raushan_coder/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-raushan_coder-blue?style=flat-square&logo="instagram"></a>
-<a href="https://www.twitter.com/raushanksujal"><img alt="
-Twitter" src="https://img.shields.io/badge/Twitter-raushanksujal-blue?style=flat-square&logo=twitter"></a>
+<a href="https://www.twitter.com/raushanksujal"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-raushanksujal-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:raushankumar279878@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Shoot A Mail-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+
+## 📈 GitHub Stats
+
+![Raushan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-raushan&show_icons=true&theme=dark)
