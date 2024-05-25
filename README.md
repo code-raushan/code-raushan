@@ -2,7 +2,7 @@
 ## Software Engineer 🧑🏻‍💻
 
 [![GitHub followers](https://img.shields.io/github/followers/code-raushan?style=social)](https://github.com/code-raushan)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ishn_ish?style=social)](https://twitter.com/raushanksujal)
+[![Twitter Follow](https://img.shields.io/twitter/follow/raushanksujal?style=social)](https://twitter.com/raushanksujal)
 
 - 🔭 I’m currently working on building performant and robust applications
 - 💻 Focused on Backend and Infrastructure Engineering
