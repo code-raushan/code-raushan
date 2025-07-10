@@ -24,4 +24,6 @@
 
 ## 📈 GitHub Stats
 
+![Codewise Contribution](https://codewiser.dev/code-raushan/codewise-contribution.svg)
+
 ![Raushan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-raushan&show_icons=true&theme=dark)
