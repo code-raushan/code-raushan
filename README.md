@@ -24,6 +24,4 @@
 
 ## 📈 GitHub Stats
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=code-raushan&layout=compact&theme=transparent)
-
 ![Raushan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-raushan&show_icons=true&theme=dark)
