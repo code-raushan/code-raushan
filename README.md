@@ -24,6 +24,6 @@
 
 ## 📈 GitHub Stats
 
-![code‑raushan’s GitHub Chart](https://ghchart.rshah.org/code-raushan)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-raushan&layout=compact&theme=transparent)
 
 ![Raushan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-raushan&show_icons=true&theme=dark)
