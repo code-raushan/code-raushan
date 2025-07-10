@@ -24,6 +24,6 @@
 
 ## 📈 GitHub Stats
 
-![Codewise Contribution](https://codewiser.dev/code-raushan/codewise-contribution.svg)
+[![code‑raushan’s Contributions](https://github.pumbas.net/api/contributions/code‑raushan?bgColour=161B22#gh-dark-mode-only)](https://github.com/code‑raushan)
 
 ![Raushan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-raushan&show_icons=true&theme=dark)
